@@ -1,0 +1,17 @@
+/* All Recipe Pages */
+
+body {
+    background-color: bisque;
+    color: rgb(133, 46, 46);
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    background-color: rgb(182, 67, 67);
+    color: whitesmoke;
+}
+
+img{
+    width: 600px;
+    height: auto;
+}

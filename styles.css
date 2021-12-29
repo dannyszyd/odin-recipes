@@ -1,0 +1,39 @@
+/* Odin Recipe Front Page Start */
+
+body{
+    background-color: bisque;
+}
+
+
+.frontpageheader {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    background-color: rgb(182, 67, 67);
+    color: whitesmoke;
+}
+
+.drevil {
+    width: 500px;
+    height: auto;
+}
+div {
+    text-align: center;
+}
+
+.fplist {
+    text-align: center;
+    color: rgb(182, 67, 67);
+    
+}
+
+li {
+    font-size: 20px;
+    color: rgb(133, 46, 46);
+    margin-bottom: 5px;
+    
+}
+
+li:hover {
+    color: whitesmoke;
+}
+/* Odin Recipe Front Page End */
